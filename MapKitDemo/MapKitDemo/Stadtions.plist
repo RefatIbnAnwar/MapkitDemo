@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>lat</key>
+		<real>13.096</real>
+		<key>long</key>
+		<real>80.291</real>
+		<key>no</key>
+		<string>no 1</string>
+		<key>title</key>
+		<string>first </string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>13.083</real>
+		<key>long</key>
+		<real>80.28294372558589</real>
+		<key>no</key>
+		<string>no 2 </string>
+		<key>title</key>
+		<string>SECOND</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>13.0796499252319</real>
+		<key>long</key>
+		<real>80.2769317626953</real>
+		<key>no</key>
+		<string>no 3</string>
+		<key>title</key>
+		<string>Third</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>13.0740404129028</real>
+		<key>long</key>
+		<real>80.2738418579102</real>
+		<key>no</key>
+		<string>no 4</string>
+		<key>title</key>
+		<string>Fourth</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>13.0619201660156</real>
+		<key>long</key>
+		<real>80.28053283691411</real>
+		<key>no</key>
+		<string>no 5</string>
+		<key>title</key>
+		<string>Fifth</string>
+	</dict>
+	<dict>
+		<key>lat</key>
+		<real>13.0557298660278</real>
+		<key>long</key>
+		<real>80.2807922363281</real>
+		<key>no</key>
+		<string>no 6</string>
+		<key>title</key>
+		<string>Sixth</string>
+	</dict>
+</array>
+</plist>
